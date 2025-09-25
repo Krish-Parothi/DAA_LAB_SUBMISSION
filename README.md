@@ -1,2 +1,2 @@
 # DAA_LAB_SUBMISSION
-This Repository is made for only submission purpose.
+This Repository is made only for submission purpose.
